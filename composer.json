@@ -5,14 +5,14 @@
     "keywords": [
         "blocks",
         "framework",
-        "data"
+        "tools"
     ],
     "require": {
         "php": ">=8.2"
     },
     "autoload": {
         "psr-4": {
-            "Blocks\\Data\\":"src/class"
+            "Blocks\\Tools\\":"src/class"
         }
     },
     "authors": [
